@@ -6,6 +6,10 @@
 
 ```shell
 go get github.com/cute-angelia/bytedance-microapp
+
+import (
+	"github.com/cute-angelia/bytedance-microapp/microapp"
+)
 ```
 
 ```go

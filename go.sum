@@ -127,8 +127,8 @@ github.com/couchbase/goutils v0.0.0-20180530154633-e865a1461c8a/go.mod h1:BQwMFl
 github.com/cpuguy83/go-md2man v1.0.10/go.mod h1:SmD6nW6nTyfqj6ABTjUi3V3JVMnlJmwcJI5acqYI6dE=
 github.com/creack/pty v1.1.9/go.mod h1:oKZEueFk5CKHvIhNR5MUki03XCEU+Q6VDXinZuGJ33E=
 github.com/cupcake/rdb v0.0.0-20161107195141-43ba34106c76/go.mod h1:vYwsqCOLxGiisLwp9rITslkFNpZD5rz43tf41QFkTWY=
-github.com/cute-angelia/go-utils v1.7.28 h1://clFO+l4T0n5mdnUDXkil0eVmS+Nr2DnPxwYsiDBHo=
-github.com/cute-angelia/go-utils v1.7.28/go.mod h1:stocFRQc57FiKJ7E7eKAxdRO+ozs41nCSHC/KHBi334=
+github.com/cute-angelia/go-utils v1.7.29 h1:fHTi98W1rNlzJ3A34aXkR1Ovm5llWvTIvm9wwFtNk2M=
+github.com/cute-angelia/go-utils v1.7.29/go.mod h1:stocFRQc57FiKJ7E7eKAxdRO+ozs41nCSHC/KHBi334=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
