@@ -34,3 +34,8 @@ func (c *Component) Code2Session(code string, anonymousCode string) apis.Code2Se
 func (c *Component) Decrypt(encryptedData, sessionKey, iv string) apis.DecryptUserInfoResp {
 	return apis.DecryptUserInfo(encryptedData, sessionKey, iv)
 }
+
+// SendSubscribeNotification 发送订阅消息
+func (c *Component) SendSubscribeNotification(accessToken, tplId, openid string, data map[string]string, page string) apis.SendSubscribeNotificationResp {
+	return apis.SendSubscribeNotification(accessToken, c.config.AppId, tplId, openid, data, page)
+}
